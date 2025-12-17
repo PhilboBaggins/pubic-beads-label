@@ -9,7 +9,7 @@ A joke label for some craft beads I found on sale a while back.
 
 ## Original label
 
-![Original label](./Original-label.jpg)
+![Original label](./original-label.jpg)
 
 ## Concept art
 
